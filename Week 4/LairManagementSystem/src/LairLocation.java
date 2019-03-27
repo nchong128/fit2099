@@ -9,7 +9,7 @@ public class LairLocation {
         this.lairName = lairName;
         this.lairDescription = lairDescription;
 
-        minions = new ArrayList<Minion>();
+        this.minions = new ArrayList<Minion>();
     }
 
     public String description() {
@@ -17,16 +17,20 @@ public class LairLocation {
     }
 
     public void assignMinion(Minion minion){
-        minions.add(minion);
+        this.minions.add(minion);
+    }
+
+    public int getTotalPayroll() {
+        int total = 0;
+
+        for (Minion minion: this.minions) {
+            total += minion.monthlyPay();
+        }
+        return total;
     }
 
     public ArrayList<Minion> getMinions() {
-        ArrayList<Minion> minionsArrayList = new ArrayList<Minion>();
+        return new ArrayList<Minion>(this.minions);
 
-        for (int i = 0; i < this.minions.size(); i++) {
-            minionsArrayList.add(minions.get(i));
-        }
-
-        return minionsArrayList;
     }
 }
