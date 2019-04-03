@@ -20,18 +20,35 @@ public abstract class Minion {
     person's name can often consist of more than 2 words
 */
 
-    Minion(String newMinionId) {
+    Minion(String newMinionId) throws IllegalArgumentException {
+        checkId(newMinionId);
         this.minionId = newMinionId;
-
         this.minionSkill = EnumSet.noneOf(MinionSkill.class);
     }
 
-    Minion(String newMinionId, String newGivenName, String newFamilyName) {
+    Minion(String newMinionId, String newGivenName, String newFamilyName) throws IllegalArgumentException{
+        checkId(newMinionId);
         this.minionId = newMinionId;
         this.givenName = newGivenName;
         this.familyName = newFamilyName;
         this.minionSkill = EnumSet.noneOf(MinionSkill.class);
     }
+
+    private void checkId(String id) throws IllegalArgumentException {
+        // Make sure ID fits description of letter with 7 integers
+        if (id.length() != 8) {
+            throw new IllegalArgumentException("Incorrect ID length");
+        } else if (!Character.isLetter(id.charAt(0)) || !Character.isUpperCase(id.charAt(0))) {
+            throw new IllegalArgumentException("First character is not a letter");
+        } else {
+            for (int i = 1; i < id.length(); i ++ ) {
+                if (!Character.isDigit(id.charAt(i))) {
+                    throw new IllegalArgumentException("ID contains non-integers after alphabet");
+                }
+            }
+        }
+    }
+
 
     public void setGivenName(String newGivenName) {
         this.givenName = newGivenName;

@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebd3da97-8724-4ca6-9fad-11cea82b5e1b" name="Default Changelist" comment="" />
+    <list default="true" id="ebd3da97-8724-4ca6-9fad-11cea82b5e1b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/LairManagementSystem/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/LairManagementSystem/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/LairManagementSystem/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/LairManagementSystem/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/LairManagementSystem/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/LairManagementSystem/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/LairManagementSystem/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,85 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 1/src/edu/monash/fit2099/counters/LinkedCounter.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 1/src/edu/monash/fit2099/counters/MaxCounter.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/counters/MaxCounter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="30" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/counters/LinkedCounter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/counters/Counter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="24" column="59" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/Driver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/watches/Watch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/watches/Watch1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/watches/Watch2.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/watches/Watch3.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -96,6 +27,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 1/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/watches/Watch.java" />
       </list>
     </option>
   </component>
@@ -110,7 +42,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -128,81 +59,31 @@
               <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
               <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
               <item name="Week 4" type="462c0819:PsiDirectoryNode" />
-              <item name="Watch Week 4 Lecture 2" type="462c0819:PsiDirectoryNode" />
+              <item name="LairManagementSystem" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
               <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 4" type="462c0819:PsiDirectoryNode" />
-              <item name="Watch Week 4 Lecture 2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 4" type="462c0819:PsiDirectoryNode" />
-              <item name="Watch Week 4 Lecture 2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 4" type="462c0819:PsiDirectoryNode" />
-              <item name="Watch Week 4 Lecture 2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="monash" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 4" type="462c0819:PsiDirectoryNode" />
-              <item name="Watch Week 4 Lecture 2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="monash" type="462c0819:PsiDirectoryNode" />
-              <item name="fit2099" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 4" type="462c0819:PsiDirectoryNode" />
-              <item name="Watch Week 4 Lecture 2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="monash" type="462c0819:PsiDirectoryNode" />
-              <item name="fit2099" type="462c0819:PsiDirectoryNode" />
-              <item name="counters" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 4" type="462c0819:PsiDirectoryNode" />
-              <item name="Watch Week 4 Lecture 2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="monash" type="462c0819:PsiDirectoryNode" />
-              <item name="fit2099" type="462c0819:PsiDirectoryNode" />
-              <item name="watches" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553580464221" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week 4/LairManagementSystem" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/2099 lab" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -238,16 +119,19 @@
       <updated>1553578079894</updated>
       <workItem from="1553578083120" duration="1783000" />
       <workItem from="1553746445204" duration="2248000" />
+      <workItem from="1554181089620" duration="1017000" />
+      <workItem from="1554182565535" duration="126000" />
+      <workItem from="1554182715917" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4031000" />
+    <option name="totallyTimeSpent" value="5187000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26639676" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -262,7 +146,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.7765363" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.7765363" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -352,17 +236,10 @@
     <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 1/src/edu/monash/fit2099/counters/MaxCounter.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/counters/Counter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="24" column="59" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/counters/MaxCounter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="30" selection-end-column="1" />
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="30" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -373,33 +250,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/Driver.java">
+    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/counters/Counter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="24" column="59" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="59" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/watches/Watch3.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/watches/Watch1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/watches/Watch2.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/watches/Watch3.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/watches/Watch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        <state relative-caret-position="697">
+          <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

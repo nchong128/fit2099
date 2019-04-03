@@ -1,10 +1,10 @@
 public class SupportStaff extends Minion {
 
-    SupportStaff(String newMinionId) {
+    SupportStaff(String newMinionId) throws IllegalArgumentException {
         super(newMinionId);
     }
 
-    SupportStaff(String newMinionId, String newGivenName, String newFamilyName) {
+    SupportStaff(String newMinionId, String newGivenName, String newFamilyName) throws IllegalArgumentException {
         super(newMinionId, newGivenName, newFamilyName);
     }
 

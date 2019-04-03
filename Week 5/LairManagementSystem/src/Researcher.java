@@ -1,10 +1,10 @@
 public class Researcher extends Minion{
 
-    Researcher(String newMinionId) {
+    Researcher(String newMinionId) throws IllegalArgumentException {
         super(newMinionId);
     }
 
-    Researcher(String newMinionId, String newGivenName, String newFamilyName) {
+    Researcher(String newMinionId, String newGivenName, String newFamilyName) throws IllegalArgumentException {
         super(newMinionId, newGivenName, newFamilyName);
     }
 
