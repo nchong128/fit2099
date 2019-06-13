@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebd3da97-8724-4ca6-9fad-11cea82b5e1b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 11/VideoStoreExampleCode.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 5/FIT2094-3171 CLAYTON Lecture 5 Normalisation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 6/CofojaDemo.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Week 6/CofojaDemo.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 6/SetDemo.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Week 6/SetDemo.zip" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +16,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getTotalFrequentRenterPoints</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,14 +34,16 @@
       <list>
         <option value="$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 1/HelloWorld.java" />
         <option value="$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/watches/Watch.java" />
+        <option value="$PROJECT_DIR$/Week 3/Watch Week 3 Lecture 2/src/edu/monash/fit2099/watches/Watch3.java" />
+        <option value="$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore1-Start/VideoStore1-Start/src/Customer.java" />
+        <option value="$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore4-getTotals/src/Customer.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="963" />
-    <option name="y" value="-12" />
-    <option name="width" value="981" />
-    <option name="height" value="1032" />
+    <option name="x" value="-11" />
+    <option name="width" value="980" />
+    <option name="height" value="1031" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -49,17 +60,140 @@
             <path>
               <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
               <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
               <item name="Week 4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
               <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 5" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Watch Week 4 Lecture 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Watch Week 4 Lecture 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Watch Week 4 Lecture 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Watch Week 4 Lecture 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="monash" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Watch Week 4 Lecture 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="monash" type="462c0819:PsiDirectoryNode" />
+              <item name="fit2099" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Watch Week 4 Lecture 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="monash" type="462c0819:PsiDirectoryNode" />
+              <item name="fit2099" type="462c0819:PsiDirectoryNode" />
+              <item name="counters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Watch Week 4 Lecture 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="monash" type="462c0819:PsiDirectoryNode" />
+              <item name="fit2099" type="462c0819:PsiDirectoryNode" />
+              <item name="watches" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 11" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoStoreExampleCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 11" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoStoreExampleCode" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoStore4-getTotals" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 11" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoStoreExampleCode" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoStore4-getTotals" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 11" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoStoreExampleCode" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoStore5-HTMLStatement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 11" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoStoreExampleCode" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoStore5-HTMLStatement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 11" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoStoreExampleCode" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoStore7-PriceClass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 11" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoStoreExampleCode" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoStore7-PriceClass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 11" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoStoreExampleCode" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoStore8-ReplaceSwitchWithPolymorphism" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FIT2099" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 11" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoStoreExampleCode" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoStore8-ReplaceSwitchWithPolymorphism" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FIT2099" type="b2602c69:ProjectViewProjectNode" />
@@ -79,9 +213,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553580464221" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Barko" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week 12" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -92,6 +227,13 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\LG4000\Documents\FIT2099\Week 4" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="?" />
+      <command value="javac TestVideoStore" />
+      <command value="java TestVideoStore" />
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -127,16 +269,17 @@
       <workItem from="1559783061858" duration="1805000" />
       <workItem from="1559819950719" duration="6000" />
       <workItem from="1559871751552" duration="22000" />
+      <workItem from="1560326003617" duration="10348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7020000" />
+    <option name="totallyTimeSpent" value="17368000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28097165" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22267206" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -146,12 +289,12 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24953446" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.7765363" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.46368715" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -176,64 +319,23 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Week 4/LairManagementSystem/LairManagementSystem.iml" />
-    <entry file="file://$PROJECT_DIR$/Week 4/LairManagementSystem/src/Minion.java" />
-    <entry file="file://$PROJECT_DIR$/Week 4/LairManagementSystem/src/LairLocation.java" />
-    <entry file="file://$PROJECT_DIR$/Week 4/LairManagementSystem/src/Lair.java" />
-    <entry file="file://$PROJECT_DIR$/Week 4/LairManagementSystem/src/LairDriver.java" />
-    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 1/src/edu/monash/fit2099/watches/Watch.java">
+    <entry file="file://$PROJECT_DIR$/Week 3/Watch Week 3 Lecture 2/src/edu/monash/fit2099/watches/Watch2.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 1/src/edu/monash/fit2099/watches/Watch1.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 1/src/edu/monash/fit2099/watches/Watch2.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 1/src/edu/monash/fit2099/watches/Watch3.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 1/HelloWorld.java">
+    <entry file="file://$PROJECT_DIR$/Week 3/Watch Week 3 Lecture 2/src/edu/monash/fit2099/watches/Watch3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="e#69#70#0" expanded="true" />
-            <element signature="e#118#119#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="194">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="23" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 1/src/Driver.java">
+    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/Driver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="323">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 1/src/edu/monash/fit2099/counters/Counter.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 1/src/edu/monash/fit2099/counters/LinkedCounter.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 1/src/edu/monash/fit2099/counters/MaxCounter.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/counters/MaxCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="30" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/counters/LinkedCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -244,33 +346,251 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/counters/LinkedCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/counters/MaxCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/watches/Watch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/watches/Watch1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="221">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/watches/Watch2.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/watches/Watch3.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/edu/monash/fit2099/watches/Watch.java">
+    <entry file="file://$PROJECT_DIR$/Week 6/CofojaDemo/src/BankAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4/Watch Week 4 Lecture 2/src/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state relative-caret-position="-316">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/CofojaDemo/src/ContractsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/SetDemo/src/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-962" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/SetDemo/src/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/SetDemo/src/ArraySet.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/SetDemo/src/Set.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/CofojaDemo/src/MeansCofoja.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/CofojaDemo/src/MeansExceptionAssertion.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/CofojaDemo/src/OverdraftAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore1-Start/VideoStore1-Start/src/TestVideoStore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#583#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore1-Start/VideoStore1-Start/src/TestVideoStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore2-AmountFor/src/Movie.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore1-Start/VideoStore1-Start/src/Rental.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore1-Start/VideoStore1-Start/src/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore1-Start/VideoStore1-Start/src/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="55" column="16" lean-forward="true" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore3-GetCharge/src/Movie.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore3-GetCharge/src/Rental.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore2-AmountFor/src/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="67" column="4" lean-forward="true" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore4-getTotals/src/Movie.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore4-getTotals/src/Rental.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore3-GetCharge/src/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="36" column="46" lean-forward="true" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore4-getTotals/src/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="32" />
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore5-HTMLStatement/src/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore6-ChargeInMovie/src/Customer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore6-ChargeInMovie/src/Rental.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore6-ChargeInMovie/src/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="51" column="26" lean-forward="true" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore7-PriceClass/src/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore7-PriceClass/src/ChildrensPrice.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore7-PriceClass/src/TestVideoStore.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore7-PriceClass/src/NewReleasePrice.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore7-PriceClass/src/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore7-PriceClass/src/Price.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore7-PriceClass/src/RegularPrice.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore7-PriceClass/src/Rental.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore8-ReplaceSwitchWithPolymorphism/src/Rental.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore8-ReplaceSwitchWithPolymorphism/src/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="33" column="41" lean-forward="true" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore8-ReplaceSwitchWithPolymorphism/src/ChildrensPrice.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore8-ReplaceSwitchWithPolymorphism/src/RegularPrice.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore8-ReplaceSwitchWithPolymorphism/src/Price.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore8-ReplaceSwitchWithPolymorphism/src/NewReleasePrice.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 11/VideoStoreExampleCode/VideoStore8-ReplaceSwitchWithPolymorphism/src/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
         </state>
       </provider>
     </entry>
